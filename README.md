@@ -1,12 +1,12 @@
-#Welcome to the Paper Rock Scissors Game!
-#This simple yet classic game is a great way to pass the time and have some fun.
-#Whether you're looking to make quick decisions, settle a dispute, or just enjoy a casual game, Paper Stone Scissors has got you covered.
-#How to Play
-#Choose Your Move:
-#Choose between Paper, Rock, and Scissors.
-#You can type your choice or select it from a menu.
-#Face the Opponent:
-#The computer will randomly choose its move.
+Welcome to the Paper Rock Scissors Game!
+This simple yet classic game is a great way to pass the time and have some fun.
+Whether you're looking to make quick decisions, settle a dispute, or just enjoy a casual game, Paper Stone Scissors has got you covered.
+How to Play
+Choose Your Move:
+Choose between Paper, Rock, and Scissors.
+You can type your choice or select it from a menu.
+Face the Opponent:
+The computer will randomly choose its move.
 Determine the Winner:
 Paper beats Stone, rock beats Scissors, and Scissors beats Paper.
 The winner of each round is determined based on the chosen moves.
